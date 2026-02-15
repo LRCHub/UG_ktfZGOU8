@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "221",
+  "base_artist": "AKLO",
+  "createdAt": "2026-02-15T08:22:56.456846Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "221",
+      "artist": "Mente Fuerte",
+      "has_synced": true,
+      "path": "select/01_221_Mente_Fuerte.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "221: Después de la Tormenta",
+      "artist": "María Luisa Piraquive",
+      "has_synced": true,
+      "path": "select/02_221__Después_de_la_Tormenta_María_Luisa_Piraquive.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4,003,221 Tears From Now",
+      "artist": "Judy Stone",
+      "has_synced": false,
+      "path": "select/03_4,003,221_Tears_From_Now_Judy_Stone.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NEFFEX - CEO [Copyright Free] No.221",
+      "artist": "NEFFEX",
+      "has_synced": true,
+      "path": "select/04_NEFFEX_-_CEO_[Copyright_Free]_No.221_NEFFEX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "221",
+      "artist": "April Divine",
+      "has_synced": true,
+      "path": "select/05_221_April_Divine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "221",
+      "artist": "Leaderbrain",
+      "has_synced": true,
+      "path": "select/06_221_Leaderbrain.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "221-tulane",
+      "artist": "Chuck Berry",
+      "has_synced": true,
+      "path": "select/07_221-tulane_Chuck_Berry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Real Talk Take 221 (Mixed)",
+      "artist": "Drimer",
+      "has_synced": true,
+      "path": "select/08_Real_Talk_Take_221_(Mixed)_Drimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "221 Тату - Робот",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/09_221_Тату_-_Робот_VA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "221 (feat. ZORN)",
+      "artist": "AKLO",
+      "has_synced": false,
+      "path": "select/pl_01_221_(feat._ZORN)_AKLO.txt"
+    }
+  ]
+}
